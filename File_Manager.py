@@ -1,5 +1,3 @@
-# Files-Manager
-# CLI-Files-Manager With Python
 import os
 import shutil
 import hashlib
