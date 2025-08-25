@@ -314,10 +314,7 @@ Choose [1 - 13]:\t""")
     elif choice == "13":
     	clear_screen()
     	print("Thanks For Using This File Manager!🗂")
-    	print("\nDeveloper:\t +201103894809, +966509099228💤")
-    	input("\n\n💤Press Enter To Exit:\t")
-    	break
-    	
+     break
     else:
         print("❌ Invalid choice. Please choose from 1 to 13.")
         input("Press Enter To Try Again")
